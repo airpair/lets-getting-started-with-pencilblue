@@ -186,6 +186,7 @@ You will be asked the following questions. I've added what you will type as resp
  Now navigate to the url you specified in step 2 above in your browser. Pencilblue will present you with a form to enter details to setup an Administrator account for you to enable access to the admin section of pencilblue which will be located at [url]/admin (e.g. http://localhost:8080/admin)
  
 And there you go. You have pencilblue up and running.
+
 ## 4 How to learn PencilBlue
 
 There are several places you can learn about Pencilblue. The following are links to resources you can use.
