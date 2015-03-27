@@ -4,7 +4,7 @@ Late last year I stumbled upon a Node.js web framework called [Pencilblue](https
 
  What is Pencilblue you might ask. According to the project's github page, it is a "Full stack online publishing and CMS for Node.js". Pencilblue been full stack means, it uses both client and sever-side frameworks which happens to be in the JavaScript programming language. The client-side framework it uses is [AngularJS](https://www.airpair.com/posts/tag/angularjs), and well [Node.js](https://www.airpair.com/node.js) for the server-side. It supports [MongoDB](http://www.mongodb.org) database by default. If you have used any of these tools to build for the web, you will understand why they were chosen by the team to build the framework. 
 
-PencilBlue's "sweet spot is a brand or publication that wants a serious, data driven website, but also wants non-technical team members to be able to manage it easily". Because of this, it was built "to fit right in between three genres: blogging (WordPress), traditional CMS (Drupal), and point and click (Squarespace)".  
+Pencilblue's "sweet spot is a brand or publication that wants a serious, data driven website, but also wants non-technical team members to be able to manage it easily". Because of this, it was built "to fit right in between three genres: blogging (WordPress), traditional CMS (Drupal), and point and click (Squarespace)".  
 
 
 ## 2. Installation
