@@ -4,7 +4,7 @@ Late last year I stumbled upon a Node.js web framework called [Pencilblue](https
 
  What is Pencilblue you might ask. According to the project's github page, it is a "Full stack online publishing and CMS for Node.js". Pencilblue been full stack means, it uses both client and sever-side frameworks which happens to be in the JavaScript programming language. The client-side framework it uses is [AngularJS](https://www.airpair.com/posts/tag/angularjs), and well [Node.js](https://www.airpair.com/node.js) for the server-side. It supports [MongoDB](http://www.mongodb.org) database by default. If you have used any of these tools to build for the web, you will understand why they were chosen by the team to build the framework. 
 
-Pencilblue's "sweet spot is a brand or publication that wants a serious, data driven website, but also wants non-technical team members to be able to manage it easily". Because of this, it was built "to fit right in between three genres: blogging (WordPress), traditional CMS (Drupal), and point and click (Squarespace)".  
+It's "sweet spot is a brand or publication that wants a serious, data driven website, but also wants non-technical team members to be able to manage it easily". Because of this, it was built "to fit right in between three genres: blogging (WordPress), traditional CMS (Drupal), and point and click (Squarespace)".  
 
 
 ## 2. Installation
@@ -185,11 +185,11 @@ You will be asked the following questions. I've added what you will type as resp
  
  Now navigate to the url you specified in step 2 above in your browser. Pencilblue will present you with a form to enter details to setup an Administrator account for you to enable access to the admin section of pencilblue which will be located at [url]/admin (e.g. http://localhost:8080/admin)
  
-And there you go. You have pencilblue up and running.
+And there you go. You have a pencilblue website up and running.
 
 ## 4 How to learn PencilBlue
 
-There are several places you can learn about Pencilblue. The following are links to resources you can use.
+There are several places you can learn about this cms. The following are links to resources you can use.
 
 * https://github.com/pencilblue/pencilblue/wiki
 * http://pencilblue.github.io/
@@ -197,6 +197,5 @@ There are several places you can learn about Pencilblue. The following are links
 * https://pencilblue.org/blog
 * http://www.reddit.com/r/pencilblue/
 
-I encourage you to take a look at PencilBlue. 
 
 In future posts, I will show you how to accomplish specific tasks like, building a plugin, theme, controllers and even building a simple blog theme.
