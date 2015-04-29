@@ -173,7 +173,7 @@ You will be asked the following questions. I've added what you will type as resp
    Just type enter to use the default or you can choose a different one.
    <li>Pencilblue: Do you want to install Bower components?: (y/N)</li>
    If you do not want to use cdn urls for you libraries like angularjs and bootstrap but want to use locally installed version type **y** and press enter or return but if you want to use cdns, then type **N** and press enter or return.
- </ol?
+ </ol>
  
  Pencilblue will start cloning  the source files for the app from github, install the node dependencies and install the bower components if you selected yes to, **Pencilblue: Do you want to install Bower components?: (y/N)**.
  
